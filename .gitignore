@@ -1,0 +1,6 @@
+# Respaldos y datos exportados: nunca al repositorio
+*.json
+*.csv
+*.xlsx
+.DS_Store
+Thumbs.db
